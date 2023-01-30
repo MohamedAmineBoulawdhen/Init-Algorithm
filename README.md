@@ -1,19 +1,19 @@
-#Sentence Analyzer
+# Sentence Analyzer
 
 A simple algorithm that analyzes a sentence character by character and determines:
 1. The length of the sentence
 2. The number of words in the sentence
 3. The number of vowels in the sentence
 
-#Requirements
+# Requirements
 - The sentence must end with a point (.) character
 - Words in the sentence are separated by a single space
 - Keep in mind that each character will be treated separately
 
-#Usage
+# Usage
 This algorithm can be used to quickly analyze any sentence and gather information about its length, number of words, and number of vowels.
 
-#How it Works
+# How it Works
 1. Read the sentence character by character
 2. Increment the length counter for each character
 3. Increment the word counter if a space character is encountered
@@ -21,7 +21,7 @@ This algorithm can be used to quickly analyze any sentence and gather informatio
 5. The last character in the sentence is the point (.)
 6. Output the length, number of words, and number of vowels
 
-#Tips
+# Tips
 - Use variables as counters to keep track of the length, number of words, and number of vowels
 - Be mindful of edge cases and test your algorithm thoroughly
 # Support
