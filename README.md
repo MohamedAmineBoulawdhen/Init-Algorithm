@@ -28,7 +28,7 @@ This algorithm can be used to quickly analyze any sentence and gather informatio
 If you need help or have any questions, feel free to reach out to me.
 
 ## Conclusion
-With this algorithm, you can quickly and easily analyze any sentence and gather important information about its structure and content. Happy coding!
+With this algorithm, you can quickly and easily analyze any sentence and gather important information about its structure and content. Happy coding! 
 ---
 I would like to thank everyone who STARRED ⭐️ this REPOSITORY. Your help is greatly appreciated!
 
